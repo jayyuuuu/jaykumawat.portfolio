@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     overflow-x: hidden;
+    font-family: 'Aladin', cursive;
     font-family: 'Redressed', cursive;
     overflow: hidden;
 }
@@ -19,8 +20,13 @@ html{
 hr{
     color: #fff;
 }
-/*
 
+#status{
+    margin-top: 20px;
+}
+
+
+/*
 .card{
    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
@@ -170,7 +176,7 @@ hr{
  font-family: 'Redressed', cursive;
      word-spacing: 3px;
     letter-spacing: 1px;
-    line-height: 230%;
+    line-height: 200%;
 }
 #about h2{
     font-family: 'Great Vibes', cursive;
@@ -193,6 +199,9 @@ h3{
 
 }
 
+/* .img-fluid{
+     height: 120vh;
+} */
 
  
 #about .btn {
