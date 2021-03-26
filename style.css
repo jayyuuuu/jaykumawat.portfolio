@@ -277,6 +277,10 @@ h3{
     #about h2{
         padding-top: 3%;
     }
+    
+        .footercontact .phn{
+        padding-right: 23%
+}
 }
 
 @media screen and (max-width: 519px){
@@ -295,6 +299,7 @@ h3{
     .heading p{
         font-size: 0.4em;
     } 
+
    
 }
 
