@@ -75,9 +75,6 @@ hr{
 
 .navbar-brand{
     margin-left: 50px;
-   font-family: 'Redressed', cursive;
-
-    
 }
 
 .heading{
@@ -160,10 +157,10 @@ hr{
 }
 
 .navbar-brand img{
-    top:15%;
+    top:10%;
     position: absolute;
-    width: 60px;
-    height: 50px;
+    width: 70px;
+    height: 60px;
 }
 
 
@@ -240,6 +237,11 @@ h3{
         text-align: center;
     }
     
+.navbar-brand img{
+    margin: 0;
+    width: 50px;
+    height: 40px;
+}
     
     .heading{
     top: 30%;
@@ -279,8 +281,9 @@ h3{
     }
     
         .footercontact .phn{
-        padding-right: 23%
-}
+        padding-right: 20%
+}    
+    
 }
 
 @media screen and (max-width: 519px){
